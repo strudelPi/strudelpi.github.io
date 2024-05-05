@@ -1,5 +1,5 @@
 - brno -> 3:30h
-- https://en.mapy.cz/s/deholehemo
+- [mapy](https://en.mapy.cz/s/deholehemo)
 - gaishorn am see (parkoviste)
 - spielkogel (?)
 - anhartskogel
