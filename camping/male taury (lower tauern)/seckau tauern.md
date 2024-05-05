@@ -1,0 +1,4 @@
+- [mapy](https://en.mapy.cz/turisticka?q=Seckau%20Tauern&source=osm&id=13308734&ds=1&x=14.5985227&y=47.3661268&z=11), [blog](https://www.svetoutdooru.cz/nizke-taury-zapomenute-zelene-hrebeny-a-skalni-stity/)
+	- bez chatek, bez lidi!
+	- jeden dlouhy hreben
+- seckau -> seckauern zinken (viz blog), [route](https://en.mapy.cz/s/gahacahofu) (14.7km, 6:30) -> ?; 2400top, 1600-100ALT
